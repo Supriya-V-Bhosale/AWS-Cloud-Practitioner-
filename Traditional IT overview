@@ -1,10 +1,31 @@
-**What is servers composed of**
+What is servers composed of?
 
 Compute - CPU
 Memory - RAM
 Storage - Data
 Database - store a data in structured way
 Network - Routers, Switches, DNS servers
+
+
+What is network?
+network is a bunch of cables, routers, and servers
+
+What is Router?
+router is a network device that will forward the data packets between computer in the networks. They know where to send your packets on the internet.
+
+What is switch?
+Takes a pocket and send in to correct server/client on your network.
+
+
+*** Problems with tradtional IT approach ***
+>Pay rent for the data servers
+>Pay for Power supply, cooling, maintenance
+>Adding and replacing hardware taking much time
+>Scalling is limited
+>Hire 24/7 team to monitor the infrastructure
+>How to deal with disasters?(earchquick, fire, power shutdown...)
+
+
 
 
 
